@@ -1,0 +1,6 @@
+#box{
+    margin-right:25%;
+    margin-left: 25%;
+    padding:40px;
+    background:linear-gradient(to right,rgb(224, 123, 140),rgb(59, 59, 206));
+}
